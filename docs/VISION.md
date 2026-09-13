@@ -107,7 +107,7 @@ fzfLAUNCHER is successful when:
 
 ## Licence
 
-MIT — Copyright Taḋg Paul
+MIT — Copyright Tadhg O'Brien
 
 ---
 
